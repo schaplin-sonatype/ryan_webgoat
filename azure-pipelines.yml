@@ -25,5 +25,5 @@ steps:
 - task: NexusIqPipelineTask@1
   inputs:
     nexusIqService: 'NexusIQConnection'
-    applicationId: 'app123'
+    applicationId: 'app1234'
     stage: 'Build'
