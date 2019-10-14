@@ -26,4 +26,4 @@ steps:
   inputs:
     nexusIqService: 'NexusIQConnection'
     applicationId: 'app1234'
-    stage: 'Release'
+    stage: 'Build'
